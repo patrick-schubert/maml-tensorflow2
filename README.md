@@ -1,6 +1,6 @@
 # Model-Agnostic Meta-Learning (MAML) Tensorflow 2 Implementation
 
-Model-Agnostic Meta-Learning (MAML) is a remarkable Deep Learning technique but sometimes their implementation and use comes a bit fuzzy. Below is a consise, fast and simple to use Tensorflow 2 MAML implementation designed by the course of the work.
+Model-Agnostic Meta-Learning (MAML) is a remarkable Deep Learning technique but sometimes their implementation and use comes a bit fuzzy. Below is a consise, fast and simple to use Tensorflow 2 MAML implementation.
 
 ### Requirements
 
